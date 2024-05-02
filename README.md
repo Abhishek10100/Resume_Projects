@@ -14,4 +14,10 @@ What you'll find here:
     
     Product data analysis using python
 
+Under work:
+
+    PLant Disease Detection using CNN 
+
+    AI - Driven decision making for hydroponic farming
+
 Many more are on the way.
